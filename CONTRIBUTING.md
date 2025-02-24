@@ -1,6 +1,6 @@
 # Contributing to Flipping Utilities JSON Editor
 
-We welcome contributions from the team! Here's how you can help:
+We welcome contributions from the team! If you'd like to contribute, please follow these steps:
 
 ## Submitting Changes
 1. Create a new branch for your feature or bug fix (`git checkout -b feature-name` or `git checkout -b bugfix-name`).
@@ -17,3 +17,5 @@ We welcome contributions from the team! Here's how you can help:
 All pull requests will be reviewed by the maintainers. Please address any feedback and update your pull request as needed.
 
 Thank you for contributing!
+
+
