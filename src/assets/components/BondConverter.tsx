@@ -1,6 +1,6 @@
 import React, { useState, ChangeEvent } from 'react';
 import { Container, Box, Typography, Button, Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Paper, Stack, MenuItem, Select, InputLabel, FormControl, Snackbar } from '@mui/material';
-import Image from '../../assets/images/OSRS_Bond.png'; // Importing the image for display
+import Image from '../images/OSRS_Bond.png';// Importing the image for display
 
 // Define the interface for Bond Transactions (for TypeScript type safety)
 interface BondTransaction {

@@ -1,11 +1,18 @@
+import ErrorBoundary from './assets/components/ErrorBoundry'; // Correct filename
 import BondConverter from './assets/components/BondConverter';
 import './App.css';
+
+
+
+
 
 function App() {
   return (
     <div className="App">
-      {/* Render the BondConverter component in the App */}
-      <BondConverter />
+      {/* Render the BondConverter component inside the ErrorBoundary */}
+      <ErrorBoundary>
+        <BondConverter />
+      </ErrorBoundary>
     </div>
   );
 }
